@@ -25,8 +25,8 @@ Eğer tüm senaryolar çalıştırılacak ise aşağıdaki şekilde çalıştır
 
 Komut çalıştırıldıktan sonra test.specs dosyasında senaryolar sırası ile çalışır. Test sonuçlarına reports/html-report/index.html sayfasından ulaşılabilir. Örnek rapor ekran görüntüsü aşağıdaki gibidir. Bu rapor Gauge kütüphanesinin kendi oluşturduğu bir rapordur.
 
-2 numaralı senaryoda test datasını `RegisterUserData.csv` dosyasından okuma işi, Gauge kütüphanesinin kullanılarak yapılmıştır. CSV dosyasındaki bilgiler her girdi olarak hemde doğrulama işleminde kullanılmıştır.
-
 ![img.png](img.png)
+
+2 numaralı senaryoda test datasını `RegisterUserData.csv` dosyasından okuma işi, Gauge kütüphanesinin kullanılarak yapılmıştır. CSV dosyasındaki bilgiler her girdi olarak hemde doğrulama işleminde kullanılmıştır.
 
 _**NOT**: Selendroid uygulaması test koşulacak cihazda kurulu olduğu varsayılarak kodlanmıştır. Eğer uygulama her defasında yüklenerek test koşumu yapılacak ise Base.java içindeki capabiliy değiştirilmelidir._
