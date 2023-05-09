@@ -1,0 +1,4 @@
+username,email,password,name,language,acceptAdds
+deneme1,deneme1@test.com,deneme1,Deneme1,Java,false
+deneme2,deneme2@test.com,deneme2,Deneme2,C++,true
+deneme3,deneme3@test.com,deneme3,Deneme3,Ruby,false

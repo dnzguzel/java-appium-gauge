@@ -2,6 +2,11 @@
   "Language": "java",
   "Plugins": [
     "xml-report",
-    "html-report"
-  ]
+    "html-report",
+    "flash",
+    "screenshot",
+    "json-report",
+    "spectacle"
+  ],
+  "EnvironmentDir": ""
 }
